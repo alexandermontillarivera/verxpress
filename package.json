@@ -1,6 +1,6 @@
 {
   "name": "verxpress",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "prepare your backend project in express to easily upload it to vercel",
   "main": "index.js", 
   "type": "module",
@@ -20,7 +20,7 @@
     "vercel express",
     "express in vercel"],
   "author": "Alexander Montilla Rivera",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
     "inquirer": "^8.2.3"
